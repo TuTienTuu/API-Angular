@@ -1,0 +1,14 @@
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\Web.Data.dll
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\Web.Data.pdb
+D:\Tuu\Project\API-Angular\Web.Data\obj\Debug\Web.Data.csprojAssemblyReference.cache
+D:\Tuu\Project\API-Angular\Web.Data\obj\Debug\Web.Data.csproj.CoreCompileInputs.cache
+D:\Tuu\Project\API-Angular\Web.Data\obj\Debug\Web.Data.dll
+D:\Tuu\Project\API-Angular\Web.Data\obj\Debug\Web.Data.pdb
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\Web.Data.dll.config
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\EntityFramework.dll
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\Web.Common.dll
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\Web.Common.pdb
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\EntityFramework.xml
+D:\Tuu\Project\API-Angular\Web.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tuu\Project\API-Angular\Web.Data\obj\Debug\Web.Data.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\Web.Model.dll
+D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\Web.Model.pdb
+D:\Tuu\Project\API-Angular\Web.Model\obj\Debug\Web.Model.csprojAssemblyReference.cache
+D:\Tuu\Project\API-Angular\Web.Model\obj\Debug\Web.Model.csproj.CoreCompileInputs.cache
+D:\Tuu\Project\API-Angular\Web.Model\obj\Debug\Web.Model.dll
+D:\Tuu\Project\API-Angular\Web.Model\obj\Debug\Web.Model.pdb
+D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\Web.Model.dll.config
+D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\EntityFramework.dll
+D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\EntityFramework.xml
+D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tuu\Project\API-Angular\Web.Model\obj\Debug\Web.Model.csproj.CopyComplete

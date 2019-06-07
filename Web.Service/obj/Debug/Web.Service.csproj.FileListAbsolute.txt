@@ -1,0 +1,15 @@
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Service.dll
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Service.pdb
+D:\Tuu\Project\API-Angular\Web.Service\obj\Debug\Web.Service.csprojAssemblyReference.cache
+D:\Tuu\Project\API-Angular\Web.Service\obj\Debug\Web.Service.csproj.CoreCompileInputs.cache
+D:\Tuu\Project\API-Angular\Web.Service\obj\Debug\Web.Service.dll
+D:\Tuu\Project\API-Angular\Web.Service\obj\Debug\Web.Service.pdb
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Common.dll
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Data.dll
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Model.dll
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Common.pdb
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Data.pdb
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Data.dll.config
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Model.pdb
+D:\Tuu\Project\API-Angular\Web.Service\bin\Debug\Web.Model.dll.config
+D:\Tuu\Project\API-Angular\Web.Service\obj\Debug\Web.Service.csproj.CopyComplete

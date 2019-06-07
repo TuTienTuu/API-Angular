@@ -1,0 +1,6 @@
+D:\Tuu\Project\API-Angular\Web.Common\bin\Debug\Web.Common.dll
+D:\Tuu\Project\API-Angular\Web.Common\bin\Debug\Web.Common.pdb
+D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.csprojAssemblyReference.cache
+D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.csproj.CoreCompileInputs.cache
+D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.dll
+D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.pdb
