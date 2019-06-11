@@ -10,3 +10,15 @@ D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\EntityFramework.SqlServer.dll
 D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\EntityFramework.xml
 D:\Tuu\Project\API-Angular\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
 D:\Tuu\Project\API-Angular\Web.Model\obj\Debug\Web.Model.csproj.CopyComplete
+E:\Web\API-Angular\Web.Model\bin\Debug\Web.Model.dll.config
+E:\Web\API-Angular\Web.Model\bin\Debug\Web.Model.dll
+E:\Web\API-Angular\Web.Model\bin\Debug\Web.Model.pdb
+E:\Web\API-Angular\Web.Model\bin\Debug\EntityFramework.dll
+E:\Web\API-Angular\Web.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Web\API-Angular\Web.Model\bin\Debug\EntityFramework.xml
+E:\Web\API-Angular\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Web\API-Angular\Web.Model\obj\Debug\Web.Model.csprojAssemblyReference.cache
+E:\Web\API-Angular\Web.Model\obj\Debug\Web.Model.csproj.CoreCompileInputs.cache
+E:\Web\API-Angular\Web.Model\obj\Debug\Web.Model.csproj.CopyComplete
+E:\Web\API-Angular\Web.Model\obj\Debug\Web.Model.dll
+E:\Web\API-Angular\Web.Model\obj\Debug\Web.Model.pdb

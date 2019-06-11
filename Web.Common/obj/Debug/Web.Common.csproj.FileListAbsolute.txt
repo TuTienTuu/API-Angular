@@ -4,3 +4,9 @@ D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.csprojAssemblyReferen
 D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.csproj.CoreCompileInputs.cache
 D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.dll
 D:\Tuu\Project\API-Angular\Web.Common\obj\Debug\Web.Common.pdb
+E:\Web\API-Angular\Web.Common\bin\Debug\Web.Common.dll
+E:\Web\API-Angular\Web.Common\bin\Debug\Web.Common.pdb
+E:\Web\API-Angular\Web.Common\obj\Debug\Web.Common.csprojAssemblyReference.cache
+E:\Web\API-Angular\Web.Common\obj\Debug\Web.Common.csproj.CoreCompileInputs.cache
+E:\Web\API-Angular\Web.Common\obj\Debug\Web.Common.dll
+E:\Web\API-Angular\Web.Common\obj\Debug\Web.Common.pdb
