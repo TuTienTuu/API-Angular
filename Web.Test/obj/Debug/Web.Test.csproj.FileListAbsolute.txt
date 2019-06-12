@@ -92,3 +92,5 @@ E:\Web\API-Angular\Web.Test\obj\Debug\Web.Test.csproj.CoreCompileInputs.cache
 E:\Web\API-Angular\Web.Test\obj\Debug\Web.Test.csproj.CopyComplete
 E:\Web\API-Angular\Web.Test\obj\Debug\Web.Test.dll
 E:\Web\API-Angular\Web.Test\obj\Debug\Web.Test.pdb
+E:\Web\API-Angular\Web.Test\bin\Debug\EntityFramework.dll
+E:\Web\API-Angular\Web.Test\bin\Debug\EntityFramework.xml

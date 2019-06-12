@@ -26,3 +26,6 @@ E:\Web\API-Angular\Web.Data\obj\Debug\Web.Data.csproj.CoreCompileInputs.cache
 E:\Web\API-Angular\Web.Data\obj\Debug\Web.Data.csproj.CopyComplete
 E:\Web\API-Angular\Web.Data\obj\Debug\Web.Data.dll
 E:\Web\API-Angular\Web.Data\obj\Debug\Web.Data.pdb
+E:\Web\API-Angular\Web.Data\bin\Debug\Web.Model.dll
+E:\Web\API-Angular\Web.Data\bin\Debug\Web.Model.pdb
+E:\Web\API-Angular\Web.Data\bin\Debug\Web.Model.dll.config
