@@ -13,7 +13,7 @@ namespace Web.Model.Models
     {
         [Key]
         [MaxLength(50)]
-        public string ID { get; set; }
+        public string TagID { get; set; }
 
         [MaxLength(50)]
         [Required]
@@ -22,5 +22,10 @@ namespace Web.Model.Models
         [MaxLength(50)]
         [Required]
         public string Type { get; set; }
+
+        //public virtual IEnumerable<PostTag> PostTags { get; set; }
+
+        //public virtual IEnumerable<ProductTag> ProductTags { get; set; }
+
     }
 }

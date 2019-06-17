@@ -9,21 +9,23 @@ using System.Threading.Tasks;
 namespace Web.Model.Models
 {
     [Table("PostTags")]
- public   class PostTag
+    public class PostTag
     {
         [Key]
+        [Column(Order = 1)]
         public int PostID { get; set; }
 
         [Key]
-        [Column(TypeName ="varchar")]
+        [Column(TypeName = "varchar", Order = 2)]
         [MaxLength(50)]
-        public string   TagID { get; set; }
+        public string TagID { get; set; }
 
         [ForeignKey("PostID")]
-        public virtual Post Post { get; set; }
+        public virtual IEnumerable<Post> Post { get; set; }
 
         [ForeignKey("TagID")]
-        public virtual Tag Tag { get; set; }
+        [MaxLength(50)]
+        public virtual IEnumerable<Tag> Tag { get; set; }
 
     }
 }

@@ -26,7 +26,8 @@ namespace Web.Model.Models
 
         public string Image { get; set; }
 
-        public XElement MoreImages { get; set; }
+        [Column(TypeName ="xml")]
+        public string MoreImages { get; set; }
 
         [Required]
         public decimal Price { get; set; }

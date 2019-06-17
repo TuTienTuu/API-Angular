@@ -12,18 +12,21 @@ namespace Web.Model.Models
   public  class ProductTag
     {
         [Key]
+        [Column(Order =1)]
+
         public int ProductID { get; set; }
 
         [Key]
-        [Column(TypeName ="varchar")]
+        [Column(TypeName ="varchar",Order = 2)]
         [MaxLength(50)]
         public string TagID { get; set; }
 
         [ForeignKey("ProductID")]
-        public virtual Product Product { get; set; }
+        public virtual IEnumerable<Product> Product { get; set; }
 
         [ForeignKey("TagID")]
-        public virtual Tag Tag { get; set; }
+        [MaxLength(50)]
+        public virtual IEnumerable<Tag> Tag { get; set; }
 
     }
 }
